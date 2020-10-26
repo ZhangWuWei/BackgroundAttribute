@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <declare-styleable name="backdrop">-->
+<!--        &lt;!&ndash;正常模式&ndash;&gt;-->
+<!--        <attr name="radius" format="dimension"/>-->
+<!--        <attr name="borderColor" format="color"/>-->
+<!--        <attr name="borderWidth" format="dimension"/>-->
+<!--        <attr name="backgroundColor" format="color"/>-->
+
+<!--    </declare-styleable>-->
+
+    <attr name="testColor" format="color"/>
+</resources>

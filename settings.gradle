@@ -1,0 +1,4 @@
+
+include ':backdrop'
+include ':app'
+rootProject.name = "BackgroundAttribute"
